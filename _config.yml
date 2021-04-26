@@ -1,10 +1,10 @@
-title: Sean Koenig's Data Portfolio
+title: Sean Koenig
 logo: "/images/profile_image.png?raw=true"
 description: >
-  Sean Koenig's data and coding portfolio
+  Data and coding portfolio
   <br><br>
-  Twitter: <a href="https://twitter.com/datacascadia">@datacascadia</a>
-  <br><br>
-  <a href="https://www.linkedin.com/in/sean-koenig-seattle/">LinkedIn</a> profile
+  Connect: 
+    <a href="https://twitter.com/datacascadia">@datacascadia</a>
+    <a href="https://www.linkedin.com/in/sean-koenig-seattle/">LinkedIn</a> profile
 
 theme: jekyll-theme-minimal
